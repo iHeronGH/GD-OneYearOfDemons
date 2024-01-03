@@ -1,20 +1,18 @@
-# GD-OneYearOfDemons
-
----
+# Level Sets
 
 ## Easy Demons:
 
 1. [Burning Chills](https://gdbrowser.com/search/56324155,88575621,77617824,94861600,318864,449502,75603568,31076618,90437094?list&header=1D%20Burning%20Chills) (0 / 9):
 
-[ ] PLAY WITH FIRE - [90437094](https://gdbrowser.com/90437094)<br>
-[ ] Magmaniac - [88575621](https://gdbrowser.com/88575621)<br>
-[ ] Spark - [31076618](https://gdbrowser.com/31076618)<br>
-[ ] Tabasco - [75603568](https://gdbrowser.com/75603568)<br>
-[ ] Magtronic - [56324155](https://gdbrowser.com/56324155)<br>
-[ ] Ice of dawn - [449502](https://gdbrowser.com/449502)<br>
-[ ] ice cave - [318864](https://gdbrowser.com/318864)<br>
-[ ] Winterbliss - [94861600](https://gdbrowser.com/94861600)<br>
-[ ] Blizzard - [77617824](https://gdbrowser.com/77617824)<br>
+[X] PLAY WITH FIRE - [90437094](https://gdbrowser.com/90437094)<br>
+[X] Magmaniac - [88575621](https://gdbrowser.com/88575621)<br>
+[X] Spark - [31076618](https://gdbrowser.com/31076618)<br>
+[X] Tabasco - [75603568](https://gdbrowser.com/75603568)<br>
+[X] Magtronic - [56324155](https://gdbrowser.com/56324155)<br>
+[X] Ice of dawn - [449502](https://gdbrowser.com/449502)<br>
+[X] ice cave - [318864](https://gdbrowser.com/318864)<br>
+[X] Winterbliss - [94861600](https://gdbrowser.com/94861600)<br>
+[X] Blizzard - [77617824](https://gdbrowser.com/77617824)<br>
 
 Video: [To be posted](#)
 
@@ -282,9 +280,7 @@ Video: [To be posted](#)
 [ ] invisible clubstep - [1347537](https://gdbrowser.com/1347537)<br>
 [ ] Delusion - [81888927](https://gdbrowser.com/81888927)<br>
 
-Video: [To be posted](#)
-
-21. Alkali & DanzMen (0 / 9):
+21. [Alkali & DanzMen](https://gdbrowser.com/search/68061608,37842055,54338123,57094996,35167945,77652759,48199047,78797905,51450101?list&header=1D%20Alkali%20And%20DanzMen) (0 / 9):
 
 [ ] NothinG - [68061608](https://gdbrowser.com/68061608)<br>
 [ ] Slap Squad - [37842055](https://gdbrowser.com/37842055)<br>
@@ -298,7 +294,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-22. Favourites (0 / 9):
+22. [Favourites](https://gdbrowser.com/search/85392414,89886591,51579290,56283849,95436164,79672578,82614693,71688190,80123214?list&header=1D%20Favourites) (0 / 9):
 
 [ ] Dub - [85392414](https://gdbrowser.com/85392414)<br>
 [ ] iSpyWithMyLittleEye - [89886591](https://gdbrowser.com/89886591)<br>
@@ -312,7 +308,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-23. Variety I (0 / 9):
+23. [Variety I](https://gdbrowser.com/search/61607636,59613028,70444933,776919,48275252,12528191,16500835,56764573,83320529?list&header=1D%20Variety%20I) (0 / 9):
 
 [ ] Crystal Shade - [61607636](https://gdbrowser.com/61607636)<br>
 [ ] BRAINWAVE - [59613028](https://gdbrowser.com/59613028)<br>
@@ -326,7 +322,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-24. Variety II (0 / 9):
+24. [Variety II](https://gdbrowser.com/search/36644784,65947116,63666215,11127666,80387492,83119412,3081555,79691289,76821414?list&header=1D%20Variety%20II) (0 / 9):
 
 [ ] Chord Cutter - [36644784](https://gdbrowser.com/36644784)<br>
 [ ] Hold On - [65947116](https://gdbrowser.com/65947116)<br>
@@ -340,7 +336,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-25. Variety III (0 / 9):
+25. [Variety III](https://gdbrowser.com/search/49217236,70511594,33244195,47849218,91780215,2997354,60830850,87357555,82290013?list&header=1D%20Variety%20III) (0 / 9):
 
 [ ] Macromolecules - [82290013](https://gdbrowser.com/82290013)<br>
 [ ] XenoFrame - [87357555](https://gdbrowser.com/87357555)<br>
