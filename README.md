@@ -2,7 +2,7 @@
 
 ## Easy Demons:
 
-1. [Burning Chills](https://gdbrowser.com/search/56324155,88575621,77617824,94861600,318864,449502,75603568,31076618,90437094?list&header=1D%20Burning%20Chills) (0 / 9):
+1. [Burning Chills](https://gdbrowser.com/search/56324155,88575621,77617824,94861600,318864,449502,75603568,31076618,90437094?list&header=1D%20Burning%20Chills) (9 / 9):
 
 [X] PLAY WITH FIRE - [90437094](https://gdbrowser.com/90437094)<br>
 [X] Magmaniac - [88575621](https://gdbrowser.com/88575621)<br>
@@ -394,7 +394,7 @@ Video: [To be posted](#)
 
 =========================
 
-[ ] 0 / 252
+[ ] 9 / 252
 
 ---
 
