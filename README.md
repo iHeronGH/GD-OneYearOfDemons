@@ -4,15 +4,15 @@
 
 1. [Burning Chills](https://gdbrowser.com/search/56324155,88575621,77617824,94861600,318864,449502,75603568,31076618,90437094?list&header=1D%20Burning%20Chills) (9 / 9):
 
-[X] PLAY WITH FIRE - [90437094](https://gdbrowser.com/90437094)<br>
-[X] Magmaniac - [88575621](https://gdbrowser.com/88575621)<br>
-[X] Spark - [31076618](https://gdbrowser.com/31076618)<br>
-[X] Tabasco - [75603568](https://gdbrowser.com/75603568)<br>
 [X] Magtronic - [56324155](https://gdbrowser.com/56324155)<br>
-[X] Ice of dawn - [449502](https://gdbrowser.com/449502)<br>
-[X] ice cave - [318864](https://gdbrowser.com/318864)<br>
-[X] Winterbliss - [94861600](https://gdbrowser.com/94861600)<br>
+[X] Magmaniac - [88575621](https://gdbrowser.com/88575621)<br>
 [X] Blizzard - [77617824](https://gdbrowser.com/77617824)<br>
+[X] Winterbliss - [94861600](https://gdbrowser.com/94861600)<br>
+[X] ice cave - [318864](https://gdbrowser.com/318864)<br>
+[X] Ice of dawn - [449502](https://gdbrowser.com/449502)<br>
+[X] Tabasco - [75603568](https://gdbrowser.com/75603568)<br>
+[X] Spark - [31076618](https://gdbrowser.com/31076618)<br>
+[X] PLAY WITH FIRE - [90437094](https://gdbrowser.com/90437094)<br>
 
 Video: [To be posted](#)
 
