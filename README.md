@@ -350,7 +350,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-26. Variety IV (0 / 9):
+26. [Variety IV](https://gdbrowser.com/search/61218838,69336928,90750865,88246699,90809996,76564776,56587109,27912428,57874008?list&header=1D%20Variety%20IV) (0 / 9):
 
 [ ] MORYO - [57874008](https://gdbrowser.com/57874008)<br>
 [ ] wowzers holy - [27912428](https://gdbrowser.com/27912428)<br>
@@ -364,7 +364,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-27. Variety V (0 / 9):
+27. [Variety V](https://gdbrowser.com/search/2029133,78654896,42960394,92754566,44758188,81155420,31420516,89131259,35382748?list&header=1D%20Variety%20V) (0 / 9):
 
 [ ] dorabaedifficult4 - [2029133](https://gdbrowser.com/2029133)<br>
 [ ] Degenerate - [78654896](https://gdbrowser.com/78654896)<br>
@@ -378,7 +378,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-28. Variety VI (0 / 9):
+28. [Variety VI](https://gdbrowser.com/search/44636618,81449508,77515178,59331033,59060893,65765662,1266557,43761609,91110754?list&header=1D%20Variety%20VI) (0 / 9):
 
 [ ] Piccadilly Circus - [44636618](https://gdbrowser.com/44636618)<br>
 [ ] by mulpan - [81449508](https://gdbrowser.com/81449508)<br>
@@ -400,7 +400,7 @@ Video: [To be posted](#)
 
 ## Medium Demons:
 
-29. Nine Circles II (0 / 3):
+29. [Nine Circles II](https://gdbrowser.com/search/7705437,10972106,8418966?list&header=1D%20Nine%20Circles%20II) (0 / 3):
 
 [ ] Fear Me - [7705437](https://gdbrowser.com/7705437)<br>
 [ ] Solar Circles - [10972106](https://gdbrowser.com/10972106)<br>
@@ -408,7 +408,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-30. The Long Haul (0 / 3):
+30. [The Long Haul](https://gdbrowser.com/search/79322759,35418014,14975695?list&header=1D%20The%20Long%20Haul) (0 / 3):
 
 [ ] Ion - [79322759](https://gdbrowser.com/79322759)<br>
 [ ] The Behemoth - [35418014](https://gdbrowser.com/35418014)<br>
