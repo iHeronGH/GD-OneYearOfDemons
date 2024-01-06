@@ -416,7 +416,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-31. Retro Reversion (0 / 3):
+31. [Retro Reversion](https://gdbrowser.com/search/5433594,88519988,27024880?list&header=1D%20Retro%20Reversion) (0 / 3):
 
 [ ] System Split - [5433594](https://gdbrowser.com/5433594)<br>
 [ ] Retrominator - [88519988](https://gdbrowser.com/88519988)<br>
@@ -424,7 +424,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-32. Plague Fields (0 / 3):
+32. [Plague Fields](https://gdbrowser.com/search/38523317,38693063,5875660?list&header=1D%20Plague%20Fields) (0 / 3):
 
 [ ] Dead Lands - [38523317](https://gdbrowser.com/38523317)<br>
 [ ] Kotoruption - [38693063](https://gdbrowser.com/38693063)<br>
@@ -432,7 +432,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-33. Blastoff (0 / 3):
+33. [Blastoff](https://gdbrowser.com/search/34907693,23300671,3273541?list&header=1D%20Blastoff) (0 / 3):
 
 [ ] Saturn V - [34907693](https://gdbrowser.com/34907693)<br>
 [ ] Nitrogen - [23300671](https://gdbrowser.com/23300671)<br>
@@ -440,7 +440,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-34. Conflict (0 / 3):
+34. [Conflict](https://gdbrowser.com/search/27786218,60887211,9287687?list&header=1D%20Conflict) (0 / 3):
 
 [ ] Mechanical Showdown - [27786218](https://gdbrowser.com/27786218)<br>
 [ ] Ultra Violence - [60887211](https://gdbrowser.com/60887211)<br>
@@ -448,7 +448,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-35. Sequels II (0 / 4):
+35. [Sequels II](https://gdbrowser.com/search/839175,4390408,450920?list&header=1D%20Sequels%20II) (0 / 4):
 
 [ ] Electrodynamix v2 - [839175](https://gdbrowser.com/839175)<br>
 [ ] clubstep part 2 - [4390408](https://gdbrowser.com/4390408)<br>
