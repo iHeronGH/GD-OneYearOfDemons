@@ -457,7 +457,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-36. Dear Nostalgists III (0 / 3):
+36. [Dear Nostalgists III](https://gdbrowser.com/search/700880,130414,74449?list&header=1D%20Dear%20Nostalgists%20III) (0 / 3):
 
 [ ] Ripplez Adventures - [700880](https://gdbrowser.com/700880)<br>
 [ ] Beautiful Chaos - [130414](https://gdbrowser.com/130414)<br>
@@ -465,7 +465,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-37. Into the Inferno (0 / 3):
+37. [Into the Inferno](https://gdbrowser.com/search/78774686,58002670,25706351?list&header=1D%20Into%20the%20Inferno) (0 / 3):
 
 [ ] Existential Crisis - [78774686](https://gdbrowser.com/78774686)<br>
 [ ] Sakupen Egg - [58002670](https://gdbrowser.com/58002670)<br>
