@@ -473,7 +473,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-38. Variety VII (0 / 3):
+38. [Variety VII](https://gdbrowser.com/search/62378908,61417747,34085027?list&header=1D%20Variety%20VII) (0 / 3):
 
 [ ] Section - [62378908](https://gdbrowser.com/62378908)<br>
 [ ] potal - [61417747](https://gdbrowser.com/61417747)<br>
@@ -489,21 +489,21 @@ Video: [To be posted](#)
 
 ## Hard Demons:
 
-39. Nine Circles III (0 / 2):
+39. [Nine Circles III](https://gdbrowser.com/search/6939821,4284013?list&header=1D%20Nine%20Circles%20III) (0 / 2):
 
 [ ] Jawbreaker - [6939821](https://gdbrowser.com/6939821)<br>
 [ ] Nine Circles - [4284013](https://gdbrowser.com/4284013)<br>
 
 Video: [To be posted](#)
 
-40. Sequels III (0 / 2):
+40. [Sequels III](https://gdbrowser.com/search/38445559,726062?list&header=1D%20Sequels%20III) (0 / 2):
 
 [ ] Thermodynamix - [38445559](https://gdbrowser.com/38445559)<br>
 [ ] Clubstep EX - [726062](https://gdbrowser.com/726062)<br>
 
 Video: [To be posted](#)
 
-41. Variety VIII (0 / 3):
+41. [Variety VIII](https://gdbrowser.com/search/61854281,4218933,40945673?list&header=1D%20Variety%20VIII) (0 / 3):
 
 [ ] Evil Yeeter - [61854281](https://gdbrowser.com/61854281)<br>
 [ ] The Caverns - [4218933](https://gdbrowser.com/4218933)<br>
@@ -519,7 +519,7 @@ Video: [To be posted](#)
 
 ## Insane Demons:
 
-42. Brilliant Bolts (0 / 3):
+42. [Brilliant Bolts](https://gdbrowser.com/search/60129422,67018065,4957691?list&header=1D%20Brilliant%20Bolts) (0 / 3):
 
 [ ] Apache - [60129422](https://gdbrowser.com/60129422)<br>
 [ ] TENDO - [67018065](https://gdbrowser.com/67018065)<br>
@@ -527,7 +527,7 @@ Video: [To be posted](#)
 
 Video: [To be posted](#)
 
-43. Grayscaled Grounds (0 / 3):
+43. [Grayscaled Grounds](https://gdbrowser.com/search/7054561,5155022,62809982?list&header=1D%20Grayscaled%20Grounds) (0 / 3):
 
 [ ] Poltergeist - [7054561](https://gdbrowser.com/7054561)<br>
 [ ] Acropolis - [5155022](https://gdbrowser.com/5155022)<br>
@@ -543,25 +543,25 @@ Video: [To be posted](#)
 
 ## Extreme Demons:
 
-44. Cataclysm (0 / 1):
+44. [Cataclysm](https://gdbrowser.com/search/3979721?list&header=1D%20Cataclysm) (0 / 1):
 
 [ ] Cataclysm - [3979721](https://gdbrowser.com/3979721)<br>
 
 Video: [To be posted](#)
 
-45. Acu (0 / 1):
+45. [Acu](https://gdbrowser.com/search/61079355?list&header=1D%20Acu) (0 / 1):
 
 [ ] Acu - [61079355](https://gdbrowser.com/61079355)<br>
 
 Video: [To be posted](#)
 
-46. La Llorona (0 / 1):
+46. [La Llorona](https://gdbrowser.com/search/92362284?list&header=1D%20La%20Llorona) (0 / 1):
 
 [ ] La Llorona - [92362284](https://gdbrowser.com/92362284)<br>
 
 Video: [To be posted](#)
 
-47. Awakening Horus (0 / 1):
+47. [Awakening Horus](https://gdbrowser.com/search/39458641?list&header=1D%20Awakening%20Horus) (0 / 1):
 
 [ ] Awakening Horus - [39458641](https://gdbrowser.com/39458641)<br>
 
