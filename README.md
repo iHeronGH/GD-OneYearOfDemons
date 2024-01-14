@@ -18,17 +18,17 @@ Video: [One Year of Demons - Burning Chills | Geometry Dash](https://youtu.be/bJ
 
 2. [One Giant Leap](https://gdbrowser.com/search/67292910,69097068,80688784,61878155,63087691,27143567,8660411,86012792,20511156?list&header=1D%20One%20Giant%20Leap) (0 / 9):
 
-[ ] Aldebaran - [67292910](https://gdbrowser.com/67292910)<br>
-[ ] turbulence - [69097068](https://gdbrowser.com/69097068)<br>
-[ ] Dancing Moonman - [80688784](https://gdbrowser.com/80688784)<br>
-[ ] Warp - [61878155](https://gdbrowser.com/61878155)<br>
-[ ] STARPUNK - [63087691](https://gdbrowser.com/63087691)<br>
-[ ] Voyager - [27143567](https://gdbrowser.com/27143567)<br>
-[ ] Death Moon - [8660411](https://gdbrowser.com/8660411)<br>
-[ ] Cosmic Rush - [86012792](https://gdbrowser.com/86012792)<br>
-[ ] Takeoff - [20511156](https://gdbrowser.com/20511156)<br>
+[X] Aldebaran - [67292910](https://gdbrowser.com/67292910)<br>
+[X] turbulence - [69097068](https://gdbrowser.com/69097068)<br>
+[X] Dancing Moonman - [80688784](https://gdbrowser.com/80688784)<br>
+[X] Warp - [61878155](https://gdbrowser.com/61878155)<br>
+[X] STARPUNK - [63087691](https://gdbrowser.com/63087691)<br>
+[X] Voyager - [27143567](https://gdbrowser.com/27143567)<br>
+[X] Death Moon - [8660411](https://gdbrowser.com/8660411)<br>
+[X] Cosmic Rush - [86012792](https://gdbrowser.com/86012792)<br>
+[X] Takeoff - [20511156](https://gdbrowser.com/20511156)<br>
 
-Video: [To be posted](#)
+Video: [One Year of Demons - One Giant Leap | Geometry Dash](https://youtu.be/RPq5f7hfPSo)
 
 3. [Sequels I](https://gdbrowser.com/search/79286413,81186977,8469744,43276194,28672992,428765,358750,369294,341613?list&header=1D%20Sequels%20I) (0 / 9):
 
