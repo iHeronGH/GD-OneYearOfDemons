@@ -32,17 +32,17 @@ Video: [One Year of Demons - One Giant Leap | Geometry Dash](https://youtu.be/RP
 
 3. [Sequels I](https://gdbrowser.com/search/79286413,81186977,8469744,43276194,28672992,428765,358750,369294,341613?list&header=1D%20Sequels%20I) (0 / 9):
 
-- [ ] Xstep v2 - [341613](https://gdbrowser.com/341613)<br>
-- [ ] Theory of every v2 - [369294](https://gdbrowser.com/369294)<br>
-- [ ] Clutterfunk v2 - [358750](https://gdbrowser.com/358750)<br>
-- [ ] Electroman adven v2 - [428765](https://gdbrowser.com/428765)<br>
-- [ ] FingerDash v2 - [28672992](https://gdbrowser.com/28672992)<br>
-- [ ] Slap Squad II - [43276194](https://gdbrowser.com/43276194)<br>
-- [ ] Toxin Lab II - [8469744](https://gdbrowser.com/8469744)<br>
-- [ ] FUGACIOUS II - [81186977](https://gdbrowser.com/81186977)<br>
-- [ ] Futurelocked - [79286413](https://gdbrowser.com/79286413)<br>
+- [x] Xstep v2 - [341613](https://gdbrowser.com/341613)<br>
+- [x] Theory of every v2 - [369294](https://gdbrowser.com/369294)<br>
+- [x] Clutterfunk v2 - [358750](https://gdbrowser.com/358750)<br>
+- [x] Electroman adven v2 - [428765](https://gdbrowser.com/428765)<br>
+- [x] FingerDash v2 - [28672992](https://gdbrowser.com/28672992)<br>
+- [x] Slap Squad II - [43276194](https://gdbrowser.com/43276194)<br>
+- [x] Toxin Lab II - [8469744](https://gdbrowser.com/8469744)<br>
+- [x] FUGACIOUS II - [81186977](https://gdbrowser.com/81186977)<br>
+- [x] Futurelocked - [79286413](https://gdbrowser.com/79286413)<br>
 
-Video: [To be posted](#)
+Video: [One Year of Demons - Sequels I | Geometry Dash](https://youtu.be/Ce2P-xfTOdQ)
 
 4. [Realm of Dreams](https://gdbrowser.com/search/3332936,3895847,214523,93148010,90475473,11588490,82977900,62088344,62024889?list&header=1D%20Realm%20of%20Dreams) (0 / 9):
 
