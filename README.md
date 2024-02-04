@@ -60,15 +60,15 @@ Video: [One Year of Demons - Realm of Dreams | Geometry Dash](https://youtu.be/i
 
 5. [Inertia I](https://gdbrowser.com/search/37533859,58462068,994282,27728679,874540,60745211,18598146,15619194,3543219?list&header=1D%20Inertia%20I) (0 / 9):
 
-- [ ] Blitz - [37533859](https://gdbrowser.com/37533859)<br>
-- [ ] RUSH HOUR - [58462068](https://gdbrowser.com/58462068)<br>
-- [ ] ClubstepDynamix - [994282](https://gdbrowser.com/994282)<br>
-- [ ] Vibration - [27728679](https://gdbrowser.com/27728679)<br>
-- [ ] DarnocDynamix - [874540](https://gdbrowser.com/874540)<br>
-- [ ] Epalze Fren - [60745211](https://gdbrowser.com/60745211)<br>
-- [ ] Endorphin Rush - [18598146](https://gdbrowser.com/18598146)<br>
-- [ ] Motion - [15619194](https://gdbrowser.com/15619194)<br>
-- [ ] Speed Racer - [3543219](https://gdbrowser.com/3543219)<br>
+- [x] Blitz - [37533859](https://gdbrowser.com/37533859)<br>
+- [x] RUSH HOUR - [58462068](https://gdbrowser.com/58462068)<br>
+- [x] ClubstepDynamix - [994282](https://gdbrowser.com/994282)<br>
+- [x] Vibration - [27728679](https://gdbrowser.com/27728679)<br>
+- [x] DarnocDynamix - [874540](https://gdbrowser.com/874540)<br>
+- [x] Epalze Fren - [60745211](https://gdbrowser.com/60745211)<br>
+- [x] Endorphin Rush - [18598146](https://gdbrowser.com/18598146)<br>
+- [x] Motion - [15619194](https://gdbrowser.com/15619194)<br>
+- [x] Speed Racer - [3543219](https://gdbrowser.com/3543219)<br>
 
 Video: [To be posted](#)
 
