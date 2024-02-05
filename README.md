@@ -70,7 +70,7 @@ Video: [One Year of Demons - Realm of Dreams | Geometry Dash](https://youtu.be/i
 - [x] Motion - [15619194](https://gdbrowser.com/15619194)<br>
 - [x] Speed Racer - [3543219](https://gdbrowser.com/3543219)<br>
 
-Video: [To be posted](#)
+Video: [One Year of Demons - Inertia I | Geometry Dash](https://www.youtube.com/watch?v=xheq7qsq7ew)
 
 6. [Inertia II](https://gdbrowser.com/search/22390740,1446831,33737577,45182394,51962481,1104816,56210242,18025697,23189196?list&header=1D%20Inertia%20II) (0 / 9):
 
