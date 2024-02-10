@@ -74,15 +74,15 @@ Video: [One Year of Demons - Inertia I | Geometry Dash](https://www.youtube.com/
 
 6. [Inertia II](https://gdbrowser.com/search/22390740,1446831,33737577,45182394,51962481,1104816,56210242,18025697,23189196?list&header=1D%20Inertia%20II) (0 / 9):
 
-- [ ] Mirror Force - [22390740](https://gdbrowser.com/22390740)<br>
-- [ ] The Flight - [1446831](https://gdbrowser.com/1446831)<br>
-- [ ] HyperFlux - [33737577](https://gdbrowser.com/33737577)<br>
-- [ ] Rapid Rush - [45182394](https://gdbrowser.com/45182394)<br>
-- [ ] Brush Rush - [51962481](https://gdbrowser.com/51962481)<br>
-- [ ] Accelerando - [1104816](https://gdbrowser.com/1104816)<br>
-- [ ] Shiver - [56210242](https://gdbrowser.com/56210242)<br>
-- [ ] Sidestep - [18025697](https://gdbrowser.com/18025697)<br>
-- [ ] Traction - [23189196](https://gdbrowser.com/23189196)<br>
+- [x] Mirror Force - [22390740](https://gdbrowser.com/22390740)<br>
+- [x] The Flight - [1446831](https://gdbrowser.com/1446831)<br>
+- [x] HyperFlux - [33737577](https://gdbrowser.com/33737577)<br>
+- [x] Rapid Rush - [45182394](https://gdbrowser.com/45182394)<br>
+- [x] Brush Rush - [51962481](https://gdbrowser.com/51962481)<br>
+- [x] Accelerando - [1104816](https://gdbrowser.com/1104816)<br>
+- [x] Shiver - [56210242](https://gdbrowser.com/56210242)<br>
+- [x] Sidestep - [18025697](https://gdbrowser.com/18025697)<br>
+- [x] Traction - [23189196](https://gdbrowser.com/23189196)<br>
 
 Video: [To be posted](#)
 
