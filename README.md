@@ -84,7 +84,7 @@ Video: [One Year of Demons - Inertia I | Geometry Dash](https://www.youtube.com/
 - [x] Sidestep - [18025697](https://gdbrowser.com/18025697)<br>
 - [x] Traction - [23189196](https://gdbrowser.com/23189196)<br>
 
-Video: [To be posted](#)
+Video: [One Year of Demons - Inertia II | Geometry Dash](https://youtu.be/eswX-E1KlWk)
 
 7. [Palette Crush I](https://gdbrowser.com/search/79687657,38870808,61618507,58558910,62364298,89102590,67904095,87317936,95090483?list&header=1D%20Palette%20Crush%20I) (0 / 9):
 
@@ -98,7 +98,7 @@ Video: [To be posted](#)
 - [ ] Palette - [87317936](https://gdbrowser.com/87317936)<br>
 - [ ] Yeux - [95090483](https://gdbrowser.com/95090483)<br>
 
-Video: [To be posted](#)
+Video: [One Year of Demons - Palette Crush I | Geometry Dash](https://youtu.be/tN554f_Wm3c)
 
 8. [Oasis de Vida](https://gdbrowser.com/search/65227464,95484955,50554435,83325180,36670741,14850167,72466881,38706212,35472709?list&header=1D%20Oasis%20de%20Vida) (0 / 9):
 
